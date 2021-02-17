@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Spring5_IntelliJ" uuid="0b39df6b-b8be-438b-bd13-94281c60d12a">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/Spring5_IntelliJ?characterEncoding=utf-8</jdbc-url>
+    </data-source>
+  </component>
+</project>
